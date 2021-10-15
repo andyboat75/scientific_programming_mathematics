@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ellipse.dir/ellipse.cpp.o -o ellipse 

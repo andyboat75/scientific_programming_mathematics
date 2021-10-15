@@ -1,0 +1,5 @@
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec8/series08/CMakeFiles/rebuild_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec8/series08/CMakeFiles/edit_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec8/series08/CMakeFiles/tictactoe.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec8/series08/CMakeFiles/matrix.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec8/series08/CMakeFiles/main.dir

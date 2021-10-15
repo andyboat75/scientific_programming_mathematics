@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec 11/Series11/main.cpp
+upper.hpp
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec 11/Series11/upper.hpp
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec 11/Series11/upper.cpp
+upper.hpp
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec 11/Series11/upper.hpp
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec 11/Series11/upper.hpp
+iostream
+-
+cmath
+-
+cassert
+-
+

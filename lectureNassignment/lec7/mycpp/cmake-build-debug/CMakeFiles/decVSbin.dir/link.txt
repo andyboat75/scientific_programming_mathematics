@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/decVSbin.dir/decVSbin.cpp.o -o decVSbin 

@@ -1,0 +1,3 @@
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec10/series10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec10/series10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec10/series10/cmake-build-debug/CMakeFiles/main.dir

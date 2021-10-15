@@ -1,0 +1,3 @@
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec9/series09/CMakeFiles/rebuild_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec9/series09/CMakeFiles/series09.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec9/series09/CMakeFiles/edit_cache.dir

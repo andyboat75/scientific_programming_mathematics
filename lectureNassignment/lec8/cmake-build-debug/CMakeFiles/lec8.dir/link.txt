@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,liblec8.so -o liblec8.so CMakeFiles/lec8.dir/matrix.cpp.o 

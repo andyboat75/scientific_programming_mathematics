@@ -1,0 +1,11 @@
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/decVSbin.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/customer.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/triangle.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/mycpp.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/ellipse.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/roman.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/university.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/name.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/CMakeFiles/palindrome.dir

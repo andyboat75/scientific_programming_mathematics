@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mycpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="decVSbin">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/decVSbin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 decVSbin"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="decVSbin/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/decVSbin" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 decVSbin/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="customer">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/customer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 customer"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="customer/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/customer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 customer/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangle">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/triangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 triangle"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangle/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/triangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 triangle/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mycpp">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/mycpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 mycpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mycpp/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/mycpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 mycpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ellipse">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/ellipse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 ellipse"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ellipse/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/ellipse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 ellipse/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="roman">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/roman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 roman"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="roman/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/roman" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 roman/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="university">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/university" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 university"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="university/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/university" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 university/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="name">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/name" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 name"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="name/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/name" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 name/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="palindrome">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/palindrome" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 palindrome"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="palindrome/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/palindrome" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 palindrome/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/customer.cpp">
+			<Option target="customer"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/customer.hpp">
+			<Option target="customer"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/decVSbin.cpp">
+			<Option target="decVSbin"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/ellipse.cpp">
+			<Option target="ellipse"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/ellipse.hpp">
+			<Option target="ellipse"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/main.cpp">
+			<Option target="mycpp"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/name.cpp">
+			<Option target="name"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/name.hpp">
+			<Option target="name"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/palindrome.cpp">
+			<Option target="palindrome"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/roman.cpp">
+			<Option target="roman"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/triangle.cpp">
+			<Option target="triangle"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/triangle.hpp">
+			<Option target="triangle"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/university.cpp">
+			<Option target="university"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/university.hpp">
+			<Option target="university"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

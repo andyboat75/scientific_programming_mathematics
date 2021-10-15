@@ -1,0 +1,4 @@
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/myTut/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/myTut/cmake-build-debug/CMakeFiles/helloWorld.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/myTut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/myTut/cmake-build-debug/CMakeFiles/myTut.dir

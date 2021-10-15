@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/PTriple.cpp
+PTriple.h
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/PTriple.h
+gcd.h
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/gcd.h
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/PTriple.h
+iostream
+-
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/gcd.h
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/main.cpp
+PTriple.h
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/PTriple.h
+iostream
+-
+cmath
+-
+utility
+-
+algorithm
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libseries08.so -o libseries08.so CMakeFiles/series08.dir/library.cpp.o 

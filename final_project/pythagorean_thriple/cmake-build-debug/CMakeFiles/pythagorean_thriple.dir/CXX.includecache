@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/pythagorean_thriple/PyTriple.h
+iostream
+-
+cassert
+-
+cmath
+-
+utility
+-
+algorithm
+-
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/pythagorean_thriple/main.cpp
+PyTriple.h
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/pythagorean_thriple/PyTriple.h
+set
+-
+

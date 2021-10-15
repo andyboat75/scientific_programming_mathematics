@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/book.dir/main.cpp.o CMakeFiles/book.dir/PTriple.cpp.o -o book 

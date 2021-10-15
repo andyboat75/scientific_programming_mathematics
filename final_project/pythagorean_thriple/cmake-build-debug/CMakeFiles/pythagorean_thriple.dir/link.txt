@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/pythagorean_thriple.dir/main.cpp.o CMakeFiles/pythagorean_thriple.dir/PyTriple.cpp.o -o pythagorean_thriple 

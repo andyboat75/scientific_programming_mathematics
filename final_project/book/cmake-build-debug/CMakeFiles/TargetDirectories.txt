@@ -1,0 +1,3 @@
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/final_project/book/cmake-build-debug/CMakeFiles/book.dir

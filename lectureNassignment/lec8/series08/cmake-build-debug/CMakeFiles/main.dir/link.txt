@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/matrix.cpp.o CMakeFiles/main.dir/8.4.cpp.o -o main 

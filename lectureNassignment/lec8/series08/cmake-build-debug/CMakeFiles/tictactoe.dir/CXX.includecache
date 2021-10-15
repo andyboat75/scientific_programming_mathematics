@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec8/series08/tic_tac_toe.cpp
+iostream
+-
+

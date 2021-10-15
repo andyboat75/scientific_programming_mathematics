@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec8/main.cpp
+vector.h
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec8/vector.h
+iostream
+-
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec8/vector.h
+iostream
+-
+cmath
+-
+cstdlib
+-
+cassert
+-
+

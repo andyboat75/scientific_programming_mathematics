@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/university.cpp
+university.hpp
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/university.hpp
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec7/mycpp/university.hpp
+iostream
+-
+string
+-
+cstdio
+-
+cassert
+-
+

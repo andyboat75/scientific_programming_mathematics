@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec10/series10/fraction.hpp
+iostream
+-
+cmath
+-
+cassert
+-
+
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec10/series10/main.cpp
+fraction.hpp
+/home/andrews/Desktop/MathMods/TUWIEN/sciprogmath/lectureNassignment/lec10/series10/fraction.hpp
+
